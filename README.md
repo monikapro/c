@@ -1,6 +1,6 @@
 #My C Questions <br/>
 ##1.Swapping using Third Variable
-<div style="background:#111;">
+<div style="background:black;">
 
 ```c
 #include<stdio.h>

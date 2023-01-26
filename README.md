@@ -1,5 +1,7 @@
 #My C Questions <br/>
 ##1.Swapping using Third Variable
+<div style="background:#111;">
+
 ```c
 #include<stdio.h>
 
@@ -23,3 +25,4 @@ int main()
 }
 
 ```
+</div>

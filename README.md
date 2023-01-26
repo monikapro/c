@@ -1,6 +1,6 @@
 #My C Questions <br/>
 ##1.Swapping using Third Variable
-'''
+```
 #include<stdio.h>
 
 int main()
@@ -21,4 +21,5 @@ int main()
 
     return 0;
 }
-'''
+
+```
